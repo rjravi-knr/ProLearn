@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "11025377753",
+    "firebase_url": "https://prolearn-a4cc3.firebaseio.com",
+    "project_id": "prolearn-a4cc3",
+    "storage_bucket": "prolearn-a4cc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11025377753:android:1750b2969a8a6f869791c8",
+        "android_client_info": {
+          "package_name": "com.prolearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11025377753-7clot13armeqlmvpgknmbc1giurvp3et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prolearn",
+            "certificate_hash": "ce7f75e3c7e438fcdbb13cc780893ebecec0855d"
+          }
+        },
+        {
+          "client_id": "11025377753-41j19asndfoamq83c5a8gjpjm8a9jtu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkndu0IeySJxdEGzXxnGgVQ6Fq96qtFuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11025377753-41j19asndfoamq83c5a8gjpjm8a9jtu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
